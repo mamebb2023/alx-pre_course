@@ -1,2 +1,2 @@
 # Git
-Git repo for projects
+Git folder for the projects
